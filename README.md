@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#ff2c55;">Raavan</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#ff2c55;">Pugazhendhi</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Engineer;React%2FNext%2FAngular+Dev;AI+Enthusiast;OTT+Platform+Builder&center=true&width=600&height=45" />
